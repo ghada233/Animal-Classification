@@ -8,8 +8,9 @@ The knowledge base has two main sections, the features of each object of interes
 
 ---------------------------------------------------------------------------------------------------------
 
--**<This repo contains Ghadah & Sedra  & Shoag  :+1:  attempts to solve the project problem>**-
-Our project submitted for Intelligence system-CS 362
+**<This repo contains Ghadah & Sedra  & Shoag  :+1:  attempts to solve the project problem>**
+
+Our project submitted for _Intelligence system-CS 362_
 Course Instructor: Ghada Fahad Mohammed Alharbi
 
 
