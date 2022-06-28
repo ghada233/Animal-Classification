@@ -2,7 +2,7 @@
 
 # prolog
 
-### Animal classification
+> Animal classification
 
 ## Project description:
 This system can classify the object of interest, can be a kingdom, or a group, or a class or a specie based on a given feature.
@@ -10,7 +10,7 @@ The knowledge base has two main sections, the features of each object of interes
 
 ---------------------------------------------------------------------------------------------------------
 
-**<This repo contains Ghadah & Sedra  & Shoag  :+1:  attempts to solve the project problem>**
+**<This repo contains  _ Ghadah & Sedra  & Shoag _ :+1:  attempts to solve the project problem>**
 
 Our project submitted for _Intelligence system-CS 362_
 
