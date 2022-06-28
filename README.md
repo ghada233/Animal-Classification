@@ -13,7 +13,7 @@ The knowledge base has two main sections, the features of each object of interes
 
 > GUESS THE ANIMAL GAME 
  
-_ Guessing game predicate_ , it displays the available features.
+ Guessing game predicate :shipit: , it displays the available features.
  The player can think of an animal that lives in Saudi Arabia and
  enter its feature.
  the predicate will search the specie first, if its not there,
