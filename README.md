@@ -2,9 +2,9 @@
 
 # prolog
 
-###> Animal classification
+### Animal classification
 
-##Project description:
+## Project description:
 This system can classify the object of interest, can be a kingdom, or a group, or a class or a specie based on a given feature.
 The knowledge base has two main sections, the features of each object of interest, and the taxonomy tree.
 
