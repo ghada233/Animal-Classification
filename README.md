@@ -11,6 +11,25 @@ This system can classify the object of interest, can be a kingdom, or a group, o
 
 The knowledge base has two main sections, the features of each object of interest, and the taxonomy tree.
 
+> GUESS THE ANIMAL GAME 
+ 
+ Guessing game predicate, it displays the available features.
+ The player can think of an animal that lives in Saudi Arabia and
+ enter its feature.
+ the predicate will search the specie first, if its not there,
+ it will search in the next level, class and so on until it find a match
+ if there is no feature match in any level, it will display not exist
+ User can play the guessing game again or can exit.
+ --------------------------------------------
+ 
+ this whole predicate depends on passing arguements or variable in which are:
+ 
+ > A: specie
+ > B: feature
+ > C: class
+ > D: group
+ > E: animal kingdom
+
 ---------------------------------------------------------------------------------------------------------
 
 **This repo contains   Ghadah & Sedra  & Shoag  :+1:  attempts to solve the project problem**
