@@ -35,6 +35,10 @@ The knowledge base has two main sections, the features of each object of interes
  > E: animal kingdom
 
 ---------------------------------------------------------------------------------------------------------
+>our kingdom class
+
+![Animal](https://user-images.githubusercontent.com/70041510/177043407-37c85459-1f59-4868-91e7-210b1b8b45a8.png)
+
 
 **This repo contains   Ghadah & Sedra  & Shoag  :+1:  attempts to solve the project problem**
 
