@@ -1,4 +1,4 @@
-# Prolog project
+# Animal Classification
 ![Prolog-logo-512](https://user-images.githubusercontent.com/70041510/176086646-42f86286-eb02-4b61-a71a-18d2142a45bb.png)
 
 
